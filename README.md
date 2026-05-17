@@ -485,6 +485,6 @@ This work is inspired by the BioBlaze SIMD ASIP architecture for DNA sequence al
 
 This project is intended for academic and educational purposes.
 
-#NARENDRA
-#Department of ECE-VLSI  
-#Indian Institute of Information Technology Senapati Manipur
+# NARENDRA
+Department of ECE-VLSI  
+Indian Institute of Information Technology Senapati Manipur
