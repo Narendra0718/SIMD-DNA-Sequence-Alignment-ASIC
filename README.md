@@ -311,7 +311,8 @@ Clock Constraint:
 ---
 
 # Synthesis Schematic
-![GLS](SIMD-DNA-Sequence-Alignment-ASIC/images/simd_gls_waves.png)
+![Schematic](SIMD-DNA-Sequence-Alignment-ASIC/images/simd_schematic.png)
+
 
 ---
 
@@ -372,7 +373,7 @@ Purpose:
 ---
 
 # GLS Waveform
-![Schematic](SIMD-DNA-Sequence-Alignment-ASIC/images/simd_schematic.png)
+![GLS](SIMD-DNA-Sequence-Alignment-ASIC/images/simd_gls_waves.png)
 
 ---
 
