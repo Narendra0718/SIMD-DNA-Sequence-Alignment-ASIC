@@ -475,12 +475,6 @@ Reduce critical path delay.
 
 ---
 
-#NARENDRA
-Department of ECE-VLSI  
-Indian Institute of Information Technology Senapati Manipur
-
----
-
 # Reference
 
 This work is inspired by the BioBlaze SIMD ASIP architecture for DNA sequence alignment.
@@ -490,3 +484,7 @@ This work is inspired by the BioBlaze SIMD ASIP architecture for DNA sequence al
 # License
 
 This project is intended for academic and educational purposes.
+
+#NARENDRA
+Department of ECE-VLSI  
+Indian Institute of Information Technology Senapati Manipur
