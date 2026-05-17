@@ -372,7 +372,7 @@ Purpose:
 ---
 
 # GLS Waveform
-![GLS Waveform](images/simd_gls_waves.png)
+![GLS Waveform](images/[simd_gls_waves.png](https://github.com/Narendra0718/SIMD-DNA-Sequence-Alignment-ASIC/blob/main/SIMD-DNA-Sequence-Alignment-ASIC/images/simd_gls_waves.png?raw=true))
 
 ---
 
