@@ -269,7 +269,7 @@ ACGAACGTACGTACCT
 ---
 
 # RTL Waveform
-![RTL Waveform](images/simd_rtl_waves.png)
+![RTL](SIMD-DNA-Sequence-Alignment-ASIC/images/simd_rtl_waves.png)
 
 ---
 
@@ -311,7 +311,7 @@ Clock Constraint:
 ---
 
 # Synthesis Schematic
-![Schematic](images/simd_schematic.png)
+![GLS](SIMD-DNA-Sequence-Alignment-ASIC/images/simd_gls_waves.png)
 
 ---
 
@@ -372,7 +372,7 @@ Purpose:
 ---
 
 # GLS Waveform
-![GLS Waveform](images/[simd_gls_waves.png](https://github.com/Narendra0718/SIMD-DNA-Sequence-Alignment-ASIC/blob/main/SIMD-DNA-Sequence-Alignment-ASIC/images/simd_gls_waves.png?raw=true))
+![Schematic](SIMD-DNA-Sequence-Alignment-ASIC/images/simd_schematic.png)
 
 ---
 
