@@ -269,7 +269,6 @@ ACGAACGTACGTACCT
 ---
 
 # RTL Waveform
-
 ![RTL Waveform](images/simd_rtl_waves.png)
 
 ---
@@ -312,7 +311,6 @@ Clock Constraint:
 ---
 
 # Synthesis Schematic
-
 ![Schematic](images/simd_schematic.png)
 
 ---
@@ -374,7 +372,6 @@ Purpose:
 ---
 
 # GLS Waveform
-
 ![GLS Waveform](images/simd_gls_waves.png)
 
 ---
